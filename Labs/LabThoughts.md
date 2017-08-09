@@ -69,6 +69,9 @@
 
 
 Lab 3 or something:
+Introduce markdown
+
+
 
 To find percent of whites in state:
 - white count per county

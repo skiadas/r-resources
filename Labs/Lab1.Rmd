@@ -75,6 +75,7 @@ To specify a large number such as 3.2 million, we generally use scientific notat
 
 Scientific notation is also helpful for indicating small values, such as 0.000007 (7 millionths), using negative exponents.
 
+TODO: Talk about this package somewhere earlier.
 ```{r, echo=FALSE, results="hide", warning=FALSE, message=FALSE}
 library(hanoverbase)
 ```
