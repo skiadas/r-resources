@@ -14,7 +14,7 @@ knitr::opts_chunk$set(results="hide", warning=FALSE, message=FALSE, fig.show="hi
 
 # Introduction
 
-In this section we will learn how to integrate R code and text into a single report. We will use the RMarkdown format for this. This format has many advantages:
+In this lab we learn how to integrate R code and text into a single report. We use the RMarkdown file format for this (`.Rmd`), which has many advantages:
 
 - The R code that produces our results is incorporated into our report. This way our results can be reproduced very easily.
 - We can work within the RStudio application, without the need for a separate text editing application.
@@ -54,7 +54,7 @@ The file we are interested in is called `Lab3Report.Rmd`. Click on it to open it
 
 # Working with RMarkdown Documents
 
-RMarkdown document typically start with a "header" section. In it you get to specify title, author and date for the report, as well as some other technical settings that we will not worry about right now. Take a moment to add your own information in the header fields. Make sure to save your edits before proceeding.
+RMarkdown documents typically start with a "header" section. In it you get to specify title, author and date for the report, as well as some other technical settings that we will not worry about right now. Take a moment to add your own information in the header fields. Make sure to save your edits before proceeding.
 
 The rest of the document contains the actual contents of your report.
 
@@ -64,6 +64,10 @@ Exporting an RMarkdown into other formats is called **Knitting**. You will find 
 
 ## Completing the Lab
 
-The first section of the lab 3 report is designed to introduce the main structures used in RMarkdown. Take a few minute to compare the text in the RMarkdown window with the corresponding HTML output to learn how to add these basic structures.
+The first section of the lab 3 report is designed to introduce the main structures used in RMarkdown. Take a few minutes to compare the text in the RMarkdown window with the corresponding HTML output to learn how to add these basic structures.
 
-The subsequent sections contain the actual assignment, where you will prompted to make statistical investigations and to document those investigations in the report. Follow those prompts to complete the assignment.
+The subsequent sections contain the actual assignment, where you will be prompted to make statistical investigations and to document those investigations in the report. Follow those prompts to complete the assignment.
+
+## Submissions
+
+You should always submit the RMarkdown document, as well as the knitted HTML file. You should make sure before you submit that the RMarkdown document knits without any errors and produces the desired result.
