@@ -72,6 +72,8 @@ Lab 3 or something:
 Introduce markdown
 
 
+TODO: Consider using the %in% operator somewhere
+
 
 To find percent of whites in state:
 - white count per county
